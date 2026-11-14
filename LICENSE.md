@@ -1,5 +1,5 @@
 SON KULLANICI LİSANS SÖZLEŞMESİ (EULA) - TÜM HAKLARI SAKLIDIR
-Telif Hakkı (c) 2026 [Adınız Soyadınız veya Kullanıcı Adınız]. Tüm hakları saklıdır.
+Telif Hakkı (c) 2026 MiniDevelopper. Tüm hakları saklıdır.
 
 1. KULLANIM İZNİ
 Bu yazılım ("SoundPad"), yalnızca son kullanıcıların kişisel ve ticari olmayan kullanımı için ücretsiz olarak sunulmaktadır.
