@@ -6,6 +6,7 @@ Mikrofonunuza istediğiniz ses efektlerini ve müzikleri enjekte ederek **Valora
 1. Sağ taraftaki **[Yayınlar (Releases)](https://github.com)** bölümüne tıklayın.
 2. En güncel sürümün altındaki **`SoundPad.exe`** dosyasını bilgisayarınıza indirin.
 3. Herhangi bir kurulum gerektirmez, doğrudan çift tıklayarak çalıştırabilirsiniz.
+4. Kullanım kılavuzu uygulama içerisinde mevcuttur.
 
 ## ⚠️ Lisans ve Kullanım Koşulları
 * Bu yazılımın tüm hakları **MiniDevelopper**'a aittir.
